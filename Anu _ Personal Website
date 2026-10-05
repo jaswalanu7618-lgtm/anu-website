@@ -1,0 +1,184 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://UelQsMSK0Vkw0Jt:kXVB1pxXi3qsRR6@localhost:11097/storage/emulated/0/Download/anu.html
+Subject: Anu | Personal Website
+Date: Mon, 05 Oct 2026 15:19:16 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--wQ8gqMKx2VKH2GQf0otVnUDMSUaOphbYVs0DNWF8Y1----"
+
+
+------MultipartBoundary--wQ8gqMKx2VKH2GQf0otVnUDMSUaOphbYVs0DNWF8Y1----
+Content-Type: text/html
+Content-ID: <frame-73381857F30E1CFB0105E6E26B0BED13@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://UelQsMSK0Vkw0Jt:kXVB1pxXi3qsRR6@localhost:11097/storage/emulated/0/Download/anu.html
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-8b55261d-f0f7-4523-b83f-bf5e9a50b942@mhtml.blink" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anu | Personal Website</title>
+
+    
+</head>
+
+<body>
+
+    <nav>
+        <a href="http://UelQsMSK0Vkw0Jt:kXVB1pxXi3qsRR6@localhost:11097/storage/emulated/0/Download/anu.html#home">Home</a>
+        <a href="http://UelQsMSK0Vkw0Jt:kXVB1pxXi3qsRR6@localhost:11097/storage/emulated/0/Download/anu.html#about">About</a>
+        <a href="http://UelQsMSK0Vkw0Jt:kXVB1pxXi3qsRR6@localhost:11097/storage/emulated/0/Download/anu.html#skills">Skills</a>
+        <a href="http://UelQsMSK0Vkw0Jt:kXVB1pxXi3qsRR6@localhost:11097/storage/emulated/0/Download/anu.html#projects">Projects</a>
+        <a href="http://UelQsMSK0Vkw0Jt:kXVB1pxXi3qsRR6@localhost:11097/storage/emulated/0/Download/anu.html#contact">Contact</a>
+    </nav>
+
+    <section id="home">
+        <h1 class="welcome">Welcome to My Website 👋</h1>
+
+        <h2>Hello, I am Anu</h2>
+
+        <p>BCA Student | Web Development Learner</p>
+
+        <a href="http://UelQsMSK0Vkw0Jt:kXVB1pxXi3qsRR6@localhost:11097/storage/emulated/0/Download/anu.html#about" class="button">Know More</a>
+    </section>
+
+    <section id="about">
+        <h2>About Me</h2>
+
+        <p>
+            Hello! My name is Anu.
+            I am a BCA student interested in
+            web development and programming.
+        </p>
+
+        <p>
+            I am learning HTML, Java, MySQL
+            and other computer technologies.
+        </p>
+    </section>
+
+    <section id="skills">
+        <h2>My Skills</h2>
+
+        <div class="skills-list">
+            <div class="skill">HTML</div>
+            <div class="skill">Java</div>
+            <div class="skill">MySQL</div>
+            <div class="skill">Web Development</div>
+            <div class="skill">Computer Basics</div>
+        </div>
+    </section>
+
+    <section id="projects">
+        <h2>My Projects</h2>
+
+        <div class="project-box">
+            <h3>🍔 Online Food Ordering</h3>
+            <p>
+                A web-based food ordering system
+                for browsing food and placing orders.
+            </p>
+        </div>
+
+        <div class="project-box">
+            <h3>🌐 Personal Website</h3>
+            <p>
+                My own personal portfolio website
+                created using HTML.
+            </p>
+        </div>
+
+        <div class="project-box">
+            <h3>💻 Java Programs</h3>
+            <p>
+                Different Java programs created
+                during BCA studies.
+            </p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+
+        <p>📧 Email: jaswalanu7668@gmail.com</p>
+
+        <p>📱 Phone: 7409199615</p>
+
+        <h3>Send Me a Message</h3>
+
+        <form>
+            <input type="text" placeholder="Enter your name" required="">
+            <br>
+
+            <input type="email" placeholder="Enter your email" required="">
+            <br>
+
+            <textarea rows="5" placeholder="Write your message"></textarea>
+            <br>
+
+            <input type="submit" value="Send Message">
+        </form>
+    </section>
+
+    <footer>
+        <p>© 2026 Anu | My Personal Website</p>
+        <p>Made with ❤️ using HTML</p>
+    </footer>
+
+
+
+</body></html>
+------MultipartBoundary--wQ8gqMKx2VKH2GQf0otVnUDMSUaOphbYVs0DNWF8Y1----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-8b55261d-f0f7-4523-b83f-bf5e9a50b942@mhtml.blink
+
+@charset "utf-8";
+
+html { scroll-behavior: smooth; }
+
+body { margin: 0px; font-family: Arial, sans-serif; background: rgb(245, 245, 245); color: rgb(34, 34, 34); }
+
+nav { background: rgb(34, 34, 34); padding: 18px; text-align: center; position: sticky; top: 0px; }
+
+nav a { color: white; text-decoration: none; margin: 12px; font-weight: bold; }
+
+nav a:hover { color: rgb(255, 105, 180); }
+
+section { padding: 70px 10%; text-align: center; }
+
+#home { background: rgb(255, 228, 240); padding: 120px 20px; }
+
+#home h1 { font-size: 42px; }
+
+.button { display: inline-block; background: rgb(255, 79, 154); color: white; padding: 12px 25px; text-decoration: none; border-radius: 25px; margin-top: 15px; }
+
+.button:hover { background: rgb(214, 51, 132); }
+
+#about { background: white; }
+
+#skills { background: rgb(255, 240, 246); }
+
+.skills-list { display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; }
+
+.skill { background: white; padding: 18px 30px; border-radius: 10px; box-shadow: rgb(204, 204, 204) 0px 3px 10px; font-weight: bold; }
+
+#projects { background: white; }
+
+.project-box { display: inline-block; width: 250px; margin: 15px; padding: 25px; background: rgb(255, 240, 246); border-radius: 15px; box-shadow: rgb(204, 204, 204) 0px 3px 10px; }
+
+#contact { background: rgb(255, 228, 240); }
+
+input, textarea { width: 90%; max-width: 450px; padding: 12px; margin: 8px; border: 1px solid rgb(204, 204, 204); border-radius: 8px; }
+
+input[type="submit"] { width: 150px; background: rgb(255, 79, 154); color: white; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; font-weight: bold; }
+
+footer { background: rgb(34, 34, 34); color: white; text-align: center; padding: 20px; }
+
+.welcome { animation: 2s ease 0s infinite alternate none running move; }
+
+@keyframes move { 
+  0% { transform: translateY(0px); }
+  100% { transform: translateY(-10px); }
+}
+------MultipartBoundary--wQ8gqMKx2VKH2GQf0otVnUDMSUaOphbYVs0DNWF8Y1------
